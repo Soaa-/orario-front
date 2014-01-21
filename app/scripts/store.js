@@ -1,0 +1,1 @@
+OrarioFront.ApplicationAdapter = DS.FixtureAdapter;
